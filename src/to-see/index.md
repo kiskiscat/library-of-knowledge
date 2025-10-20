@@ -1,6 +1,19 @@
 # На посмотреть
 
-Сюда можно добавлять любые ссылки на ресурсы, которые могут быть интересны для дальнейшего изучения:
+## Прочее
 
 - https://voidzero.dev
 - https://docusaurus.io/
+- https://planetscale.com/blog/processes-and-threads
+
+## Технологии
+
+- Zustand
+- viem
+- wagmi
+- Solana / EVM
+- IDL (Anchor)
+- Codama
+- Token Extensions
+- Smart Contracts
+- ABI

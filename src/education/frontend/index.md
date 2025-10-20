@@ -10,7 +10,9 @@
 
 - [Дока](https://doka.guide/)
 - [WebDev](https://web.dev/learn/)
+- [Patterns Dev](https://www.patterns.dev/)
 
 # Блоги
 
 - https://bespoyasov.ru/
+- https://www.fffuel.co/sssvg/

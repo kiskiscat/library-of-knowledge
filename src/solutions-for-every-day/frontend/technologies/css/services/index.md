@@ -32,6 +32,7 @@
 ## Работа с фигурами
 
 - [clippy](https://bennettfeely.com/clippy/) - расчёт свойства clip-path, для создания фигур разной формы.
+- [svgwave](https://svgwave.in/)
 
 ## Работа с анимациями
 

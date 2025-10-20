@@ -12,3 +12,7 @@
 
 - [Найм](./hiring/index.md)
 - [Развитие умственной деятельности](./development-of-mental-activity/index.md)
+
+## Прочее
+
+- [Не отсортированное](./unsorted.zip)

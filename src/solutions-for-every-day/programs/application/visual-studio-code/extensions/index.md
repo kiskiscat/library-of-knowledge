@@ -1,5 +1,7 @@
 # Расширения
 
+- [remote-development](https://code.visualstudio.com/docs/remote/remote-overview)
+- [jsoncrack](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode)
 - [html-css](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [auto-complete-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)
