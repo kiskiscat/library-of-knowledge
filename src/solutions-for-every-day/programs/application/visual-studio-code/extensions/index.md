@@ -19,3 +19,4 @@
 - [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [theme-onedark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 - [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)

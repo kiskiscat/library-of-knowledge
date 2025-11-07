@@ -37,3 +37,4 @@
 ## Работа с анимациями
 
 - [animista](https://animista.net/) - библиотека готовых css анимаций.
+- [animatiss](https://xsgames.co/animatiss/) - коллекция анимаций

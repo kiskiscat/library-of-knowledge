@@ -4,3 +4,4 @@
 - [ИБ](./information-security/index.md)
 - [Linux](./linux/index.md)
 - [Геймдев](./gamedev/index.md)
+- [Английский](./english/index.md)

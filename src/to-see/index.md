@@ -6,6 +6,10 @@
 - https://docusaurus.io/
 - https://planetscale.com/blog/processes-and-threads
 
+## Красивые сайты
+
+- https://bluecorridors.org/
+
 ## Технологии
 
 - Zustand
