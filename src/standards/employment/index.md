@@ -1,3 +1,5 @@
 # Трудоустройство
 
-1. [Принципы](./principles/index.md)
+- [Принципы](./principles/index.md)
+- [Вопросы](./questions/index.md)
+- [Сервисы](./services/index.md)
