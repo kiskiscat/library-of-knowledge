@@ -1,6 +1,5 @@
-# Решения на каждый день
+# Разработка
 
-- [DevOps](./dev-ops/index.md)
 - [Бекенд](./backend/index.md)
 - [Программы](./programs/index.md)
 - [Фронтенд](./frontend/index.md)

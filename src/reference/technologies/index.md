@@ -1,5 +1,5 @@
-# Направления
+# Технологии
 
-- [Бекенд](./backend/index.md)
+- [Бэкенд](./backend/index.md)
 - [Фронтенд](./frontend/index.md)
 - [Тестирование](./testing/index.md)

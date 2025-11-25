@@ -1,6 +1,6 @@
 # Стандарты
 
 - [Разработка](./development/index.md)
+- [Процессы](./processes/index.md)
+- [Управление](./management/index.md)
 - [Трудоустройство](./employment/index.md)
-- [Руководство](./management/index.md)
-- [CI-CD](./ci-cd/index.md)
